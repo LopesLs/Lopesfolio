@@ -5,13 +5,13 @@
 <!-- Header of our Readme -->
 <br />
 <div align="center">
-  <a href="https://github.com/LopesAuth/Lopesfolio">
+  <a href="https://github.com/LopesLs/Lopesfolio">
     <img src="assets/images/readmeImage.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Lopesfolio</h3>
     
-  <a href="https://lopesauth.github.io/Lopesfolio/"><strong>Visitar na Web »</strong></a>
+  <a href="https://LopesLs.github.io/Lopesfolio/"><strong>Visitar na Web »</strong></a>
 
   <br>
 </div>
@@ -37,7 +37,7 @@
 Olá, este é o repositório oficial do meu portfólio, que contém informações detalhadas sobre a minha formação profissional, experiências e habilidades
 como desenvolvedor web.
 
-[**Visitar na Web »**](https://lopesauth.github.io/Lopesfolio/)
+[**Visitar na Web »**](https://LopesLs.github.io/Lopesfolio/)
 
 <p align="right" name="blankline">-</p>
 
